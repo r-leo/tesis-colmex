@@ -6,7 +6,11 @@ This repository stores the code used to perform the statistical estimation of an
 
 ## The files (start here)
 
-* The raw Jupyter code is the file [ajuste_modelo.ipynb](ajuste_modelo.ipynb)
+* The raw Jupyter code is the file [ajuste_modelo.ipynb](ajuste_modelo.ipynb).
+* An HTML export is available at [ajuste_modelo.html](ajuste_modelo.html).
+* Probably the HTML file is too big for the GitHub webpage to handle, and sometimes the Jupyter code isn't properly executed here. So, if everything else fails, there is a PDF export at [ajuste_modelo.pdf](ajuste_modelo.pdf).
+
+It is always possible, however, to download the .ipynb file and execute it (don't forget the data file at [datos.xlsx](datos.xlsx)), or to download the HTML file and take a look at it from a local browser.
 
 ## Data sources
 
