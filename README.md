@@ -6,7 +6,7 @@ This repository stores the code used to perform the statistical estimation of an
 
 ## The files (start here)
 
-* The raw Jupyter code is the file [ajuste_modelo.ipnyb](ajuste_modelo.ipnyb)
+* The raw Jupyter code is the file [ajuste_modelo.ipynb](ajuste_modelo.ipynb)
 
 ## Data sources
 
