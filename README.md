@@ -13,7 +13,7 @@ This repository stores the code used to perform the statistical estimation of an
 * HTML exports for every Jupyter file are available at the [exports](exports) folder.
 
 
-## Data sources (for the estimation that uses U.S. data)
+## Data sources (only U.S. data)
 
 * Historical asset returns for USA:
 
